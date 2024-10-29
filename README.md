@@ -66,7 +66,7 @@ This project comprises two Power BI dashboards developed as part of the ZoomChar
 
 ## Getting Started
 To view the dashboards, click the link below:
-- [E-Commerce Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTlmMTc5OWQtYzkyZS00ZGNiLWE2YjgtMzY2OTMyZDM4Y2E4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [E-Commerce Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNTlmMTc5OWQtYzkyZS00ZGNiLWE2YjgtMzY2OTMyZDM4Y2E4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://olamilekan898.github.io/olamilekane-commerceanalysis.io/))
 
 ## Conclusion
 These dashboards provide a comprehensive overview of e-commerce performance, facilitating data-driven decision-making for stakeholders. Explore the insights to understand sales trends, customer behavior, and overall business performance.    
